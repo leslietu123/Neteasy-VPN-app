@@ -12,7 +12,9 @@ https://github.com/leslietu123/Neteasy-VPN-app/releases/tag/v1.3.0
 
 
 # 截图
-![server](https://github.com/leslietu123/Neteasy-VPN-app/assets/126388542/27e269a7-efaf-495c-a9d7-f64887c80931)
-![main](https://github.com/leslietu123/Neteasy-VPN-app/assets/126388542/836f72ba-09cf-452b-8723-1f2b0b09dc72)
-![homepage](https://github.com/leslietu123/Neteasy-VPN-app/assets/126388542/8a68a45f-812f-414f-af1f-76deda7e2bda)
+<div align="center">
+  <img src="https://github.com/leslietu123/Neteasy-VPN-app/assets/126388542/27e269a7-efaf-495c-a9d7-f64887c80931" width="300">
+  <img src="https://github.com/leslietu123/Neteasy-VPN-app/assets/126388542/836f72ba-09cf-452b-8723-1f2b0b09dc72" width="300">
+  <img src="https://github.com/leslietu123/Neteasy-VPN-app/assets/126388542/8a68a45f-812f-414f-af1f-76deda7e2bda" width="300">
+</div>
 
