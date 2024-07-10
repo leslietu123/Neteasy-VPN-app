@@ -2,7 +2,7 @@
 
 安卓apk
 
-https://github.com/leslietu123/Neteasy-VPN-app/releases/tag/v1.3.0
+<a href="https://github.com/leslietu123/Neteasy-VPN-app/releases/tag/v1.3.0">下载</a>
 
 
 # 描述
