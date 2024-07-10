@@ -9,6 +9,7 @@ https://github.com/leslietu123/Neteasy-VPN-app/releases/tag/v1.3.0
 
 使用kotlin开发的安卓端高性能vpn app，需要源码可以联系邮箱：evanrobertsca@gmail.com
 后端托管在aws amplify提供的高性能可伸缩平台，所有服务均由aws云提供，部署简单，易维护，低代码量。
+需要定制开发服务？联系邮箱：evanrobertsca@gmail.com
 
 
 # 截图
